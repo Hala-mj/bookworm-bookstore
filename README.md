@@ -8,7 +8,7 @@
 
 **BookWorm** is a front-end website for book lovers. Visitors explore genre categories, open a page for each book with its cover, author, rating, synopsis, language and page count, read reader reviews, and use **Buy Now** to choose a retailer (Amazon, Jarir, AbeBooks, Barnes & Noble, Bookshop, Virgin Megastore and others).
 
-It was built for the *Advanced Web Programming* course. The phase 1 report designed the wider platform: user roles, a database model and an ER diagram. This repository contains the implemented **HTML/CSS/JavaScript front-end**.
+It was built for the *Advanced Web Programming* course. The phase 1 report ([`docs/BookWorm_Report.pdf`](docs/BookWorm_Report.pdf); student IDs removed) designed the wider platform: user roles, a database model and an ER diagram. This repository contains the implemented **HTML/CSS/JavaScript front-end**.
 
 ## Features
 
@@ -61,7 +61,9 @@ bookworm-bookstore/
 │   ├── swiper.js              # Swiper config (no carousel markup yet)
 │   └── review*.js             # per-book review data + rendering
 ├── images/                    # covers, authors, categories, avatars, store logos, icons
-└── docs/screenshots/
+└── docs/
+    ├── BookWorm_Report.pdf
+    └── screenshots/
 ```
 
 ## Notes
@@ -72,7 +74,7 @@ bookworm-bookstore/
 ## Credits
 
 Team project for **Advanced Web Programming (14014110-3)**, College of Computing, Umm Al-Qura University, 2024–2025.
-Built by **Hala Jalal** and teammates as a university project at Umm Al-Qura University (Advanced Web Programming).
+Team members (from the course report): Shaima Mohammed Al-Khuzaee, Hala Mohammed Jalal, Razan Mohammed Hakimi, Lujain Khaled Al-Sayed, and Shahd Yousef Almatrouk.
 
 ## License
 
